@@ -23,7 +23,9 @@ This project predicts house rental prices using Machine Learning on 1500+ record
 - Scikit-learn
 
 ## 📷 Output
-(Add your screenshots here)
+
+![EDA Dashboard](outputs/eda_dashboard.png)
+
 
 ## 📂 How to Run
 ```bash
