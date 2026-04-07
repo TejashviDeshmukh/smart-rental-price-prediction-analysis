@@ -24,7 +24,10 @@ This project predicts house rental prices using Machine Learning on 1500+ record
 
 ## 📷 Output
 
-![EDA Dashboard](outputs/eda_dashboard.png)
+This project performs Exploratory Data Analysis (EDA) on a rental housing dataset.  
+It provides insights into rent distribution, city-wise price variations, and the impact of features like area, furnishing status, and number of bedrooms on rental prices.  
+
+The analysis helps in understanding key factors influencing house rents and supports better decision-making.
 
 
 ## 📂 How to Run
